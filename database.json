@@ -1,0 +1,44 @@
+{
+  "vegan-meals": [
+    {
+      "id": 0,
+      "name": "Chickpea Flour Pancakes",
+      "description": "East meets west with this wonderfully healthy savory pancake",
+      "ingredients": [
+        "120g chickpea flour",
+        "250ml water",
+        "1 tsp turmeric",
+        "1/2 tsp salt",
+        "1/2 tsp pepper",
+        "3 spring onions",
+        "1 tbsp olive oil"
+      ],
+      "optional": ["1/2 tsp chili flakes", "1 bell pepper, red", "70 g peas"],
+      "instructions": "Add the flour, water, turmeric, salt, pepper and chili flakes (if using) to a mixing bowl and give it a quick blend using a food processor or blender. Leave it to settle for a few minutes while you heat up the oil in a non-stick pan. The batter needs to look very runny! Dice the veggies finely and add them to the mixture. Use a tissue or similar (a spray oil would work wonders here) to ensure the bottom of the pan is coated well in oil. Add about a ladle of the mixture and veggies when the pan is hot – a medium heat should be just right. Cook for about 3 minutes – the mixture will quickly start to firm. If you’re using two pans, you can make two pancakes at the same time. Make sure you use a large pan (or pans) here, you’re aiming for thin pancakes. They’re MUCH easier to handle! Use a large spatula to help you flip the pancakes, adding more oil underneath if necessary. After another 2-3 minutes your pancake will be ready! Keep it somewhere warm while you repeat with the second pancake, adding more oil when necessary. Done! Add your desired toppings and enjoy. Remember – it’s important to eat these pancakes warm – don’t let them get cold!",
+      "image-link": "https://hurrythefoodup.com/wp-content/uploads/2017/02/Chickpea-Pancakes-Besan-5-250x250.jpg"
+    },
+    {
+      "id": 0,
+      "name": "Pasta Arrabiata",
+      "description": "A classic pasta dish, make it as spicy as you like!",
+      "ingredients": [
+        "1 small aubergine",
+        "1/4 tsp salt",
+        "250 g wholegrain pasta (8oz = 250g)",
+        "1/4 tsp paprika",
+        "1 medium onion",
+        "2 cloves garlic",
+        "2 medium tomato",
+        "1/4 tsp sugar",
+        "3 tbsp olive oil",
+        "1 tsp tomato paste (also known as tomato concentrate – the thick stuff, often in a tube)",
+        "500 ml tomato juice (the drink) 2 cups = 500ml)",
+        "1 red chili pepper",
+        "2 tbsp almonds (roasted/smoked)"
+      ],
+      "optional": "N/A",
+      "instructions": "Cook the pasta as per packet instructions. Wash and cut the aubergine and tomatoes into small pieces. Heat up a pan with olive oil on a medium heat. Add the aubergine, and mix in the salt and paprika. Dice the onion and garlic. After a couple of minutes, add the onions and fry until soft. When they are, add the garlic and fry for another 30 seconds or so. Add the tomato paste and let it fry for a couple of minutes more. Add the tomato juice, the tomato pieces and the sugar. Chop the chili pepper and throw that in there too. Let it cook (bubbling) for another five minutes. Crush the almonds. Serve the pasta with the sauce, adding salt and pepper to taste. Garnish with the crushed almonds.",
+      "image-link": "https://hurrythefoodup.com/wp-content/uploads/2019/01/aubergine-arrabiata-5-of-6-250x250.jpg"
+    }
+  ]
+}
